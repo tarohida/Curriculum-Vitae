@@ -8,7 +8,7 @@
 
 |key|value|
 |---|-----|
-|Name|Taro Hida|
+|名前|Taro Hida|
 |Qiita|[qiita.com/taro-hida](https://qiita.com/taro-hida)|
 |GitHub|[github.com/tarohida](https://github.com/tarohida)|
 
