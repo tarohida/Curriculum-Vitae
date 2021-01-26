@@ -6,7 +6,7 @@
 
 ## プロフィール
 
-|key|value|
+|||
 |---|-----|
 |名前|Taro Hida|
 |Qiita|[qiita.com/taro-hida](https://qiita.com/taro-hida)|
