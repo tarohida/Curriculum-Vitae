@@ -1,91 +1,35 @@
-# 職務経歴書
+## 現在担当している業務
 
-## 基本情報
+- WEBシステム開発
+  - テスト計画策定および関連資料の整備
+  - Unix系OSミドルウェア調整
+
+## プロフィール
 
 |key|value|
 |---|-----|
 |Name|飛田 太郎 (Taro Hida)|
-|Qiita|[taro-hida](https://qiita.com/taro-hida)|
-|GitHub|[taro-hida](https://github.com/taro-hida)|
+|Qiita|[qiita.com/taro-hida](https://qiita.com/taro-hida)|
+|GitHub|[github.com/tarohida](https://github.com/tarohida)|
 
-## スキル
-### OS
-- **CentOS**
-- Ubuntu
-- Windows Server
-- Cisco IOS
+## 担当可能な業務
 
-### 構築環境
-- **AWS**
-- GCP
-- ニフクラ
-- Virtualbox
-
-### ミドルウェア
-- **Apache**: コンフィグが読める、ログが読める、構築経験あり
-- Nginx: コンフィグが読める、ログが読める、構築経験あり
-- **Postfix**: コンフィグが読める、ログが読める、構築経験あり
-- **PostgreSQL**: 各種操作コマンド、ユーザ作成、権限付与の操作ができる。構築経験あり
-- BIND: 各種ゾーン情報が定義できる。調べればzoneファイルも書ける。
-- ZABBIX: 
-- samba: 簡単な構築経験あり。
+- LAMP構成等、バックエンドにPHPを利用したWEBシステムの開発
+    - PHP, HTML, JavaScript等利用
+    - 開発用インフラはDockerを利用
 
 ### その他
 
-- 障害対応経験（復旧まで）1年と4か月
-- マネジメント経験2か月
-- 業務改善担当経験4か月
-- プログラミングスキル有（**Python**, **PHP**, **SHELL**, javascript, HTML/CSS , ruby, C, JAVA）
-- Laravel, Ruby on Rails格闘中
+#### 現在取り組んでいるもの
 
-## 言語
-- 英語
-  - かんたんな日常会話ができる
-  - TOEIC: 550点（大学在学当時）
+- 担当するタスクの作業量見積もりと、自己進捗管理（2020.04~）
+- テスト駆動の導入(2020.06~)
+- レイヤードアーキテクチャの導入(2021.01~)
 
-## 強み
+#### 資格情報
 
-- じゃんじゃん情報を発信・共有していきたいタイプです。社内での情報共有が活発な企業に対し、深くコミットできると思います。  
-  また、それに対するリアクションを餌に生きるタイプです。  
-- 日々自分が行う業務から、改善点を発見することができます。
-- 物事や扱うシステムについて、仕組みを掘り下げて理解することが得意です。
-- 上司の思考・判断をトレースすることも得意です。
-- 得た情報を自分の中で噛み砕いて整理し、それをドキュメントとしてまとめることが得意です。  
-- 学習に対するハードルが非常に低いです。「暇だから勉強するか」感覚で学習を開始します。  
-  そのため、学習にかける精神的なコストも低いです。
-- 数多くの運用案件を担当してきました。各種ドキュメントを読み込み、構成を把握することが得意です。
-
-## 興味があるもの
-- 監視設計
-- Ansible, Teraform等の構成管理ツール
-- AWSを利用した、可用性、耐障害性を高めたインフラ設計（疎結合な構成）
-- 設計構築
-- 運用事故対策
-
-## LIKE
-- アイデアを形にすること
-- 仕組みを理解すること
-
-## 職務経歴
-
-### yyyy/mm - 現在 : 会社名
-
-職務: Webアプリケーションエンジニア（例）
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
-
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
-
-職務: サーバーサイドエンジニア
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
-
-## 課外活動
-2019/02 [MSPJ マイグレーションコンテスト](https://connpass.com/event/107764/) 参加
-
-### 過去の登壇資料
-* [Speaker Deck](https://speakerdeck.com/mutsu00062/)
+- [基本情報技術者試験(FE)](https://www.jitec.ipa.go.jp/1_11seido/fe.html) 合格
+- [PHP5上級試験/準上級試験](https://www.phpexam.jp/summary/expert/) 準上級合格
+- [LPIC level1](https://www.lpi.org/ja/our-certifications/lpic-1-overview) 合格
+- [CCNA 100-105](https://learningnetwork.cisco.com/s/article/100-105-icnd1-overview) 合格
+- [AWS Certified Solutions Architect](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/) 合格
